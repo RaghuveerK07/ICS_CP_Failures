@@ -1,3 +1,4 @@
+"STUDENT ATTENDANCE SYSTEM"
 The provided code constitutes a Student Attendance Management System with a command-line interface. Upon execution, the program prompts the user to input a file name, creating a CSV file in the system. Subsequently, the user is presented with a menu, offering operations such as inputting attendance, checking attendance and exiting the program.
 
 The "Input Attendance" operation enables the user to input attendance details, including the date, student roll number, and name. The information is appended to the existing CSV file.
