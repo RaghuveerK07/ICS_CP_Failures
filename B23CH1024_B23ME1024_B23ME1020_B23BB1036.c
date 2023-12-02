@@ -103,7 +103,7 @@ int main() {
                 check_attendance();
                 break;
             case 3:
-                printf("Exiting Program! BYE BYE :) 3\n");
+                printf("Exiting Program! BYE BYE :) \n");
                 break;
             default:
                 printf("Oops, entered a wrong choice, try again!\n");
